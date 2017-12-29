@@ -1,0 +1,33 @@
+
+#coffee_tbl{
+	font-size:13px;
+	font-family:Arial;
+	text-align:center;
+	width:95%;
+	border-collapse:collapse;
+	
+	margin:10px;
+}
+
+#coffee_tbl td{
+	border:1px solid #e2e2e2;
+}
+
+#coffee_tbl #title_header{
+	background-color:#F2F2F2;
+	border:1px solid #e2e2e2;
+	height:25px;
+	color:#6E6E6E;
+}
+
+#coffee_tbl #price_header{
+	background-color:#F2F2F2;
+	border:1px solid #e2e2e2;
+	height:20px;
+}
+
+#coffee_tbl #price_content{
+	background-color:#FFF;
+	border:1px solid #e2e2e2;
+	height:20px;
+}

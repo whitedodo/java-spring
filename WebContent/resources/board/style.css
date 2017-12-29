@@ -1,0 +1,182 @@
+/* 게시판 테이블 구성 */
+
+/* 게시판 목록 */
+#board_list_tbl{
+	font-size:13px;
+	font-family:Arial;
+	text-align:center;
+	width:95%;
+	border-collapse:collapse;
+	
+	margin:10px;
+}
+
+#board_list_tbl td{
+	border:1px solid #e2e2e2;
+}
+
+#board_list_tbl #title_header{
+	background-color:#F2F2F2;
+	border:1px solid #e2e2e2;
+	height:25px;
+	color:#6E6E6E;
+}
+
+#board_list_tbl #content_odd{
+	background-color:#FFF;
+	border:1px solid #e2e2e2;
+	height:25px;
+	color:#6E6E6E;
+	font-size:12px;
+	font-family:Arial;
+}
+
+#board_list_tbl #content_even{
+	background-color:#FBEFFB;
+	border:1px solid #e2e2e2;
+	height:25px;
+	color:#6E6E6E;
+	font-size:12px;
+	font-family:Arial;
+}
+
+#board_list_func{
+	text-align:left;
+	margin:10px;
+}
+
+#board_list_func_tbl{
+	font-size:13px;
+	font-family:Arial;
+	text-align:center;
+	width:100%;
+	border-collapse:collapse;
+	
+	margin:10px;
+}
+
+#board_list_func_tbl td{
+	border:0px none #FFF;
+}
+
+.board_list_btn {
+    background-color: #585858; /* Blue */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.board_list_btn_font {
+	font-size:12px;
+	font-family:Arial;
+	font-weight:bold;
+}
+
+
+/* 게시판 글 작성 */
+#board_write_tbl{
+	font-size:13px;
+	font-family:Arial;
+	text-align:center;
+	width:95%;
+	border-collapse:collapse;
+	
+	margin:10px;
+}
+
+#board_write_tbl td{
+	border:1px solid #e2e2e2;
+}
+
+#board_write_tbl #title_header{
+	background-color:#F2F2F2;
+	border:1px solid #e2e2e2;
+	height:25px;
+	color:#6E6E6E;
+}
+
+#board_write_tbl #content{
+	color:#FFF;
+}
+
+#board_write_tbl .inputBox{
+	font-size:13px;
+	font-family:Arial;
+	width:100%;
+	height:25px;
+	
+	border:1px solid #e2e2e2;
+}
+
+#board_write_tbl .textBox{
+	font-size:13px;
+	font-family:Arial;
+	width:100%;
+	height:300px;
+	
+	border:1px solid #e2e2e2;
+}
+
+.board_write_btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.board_write_btn_font {
+	font-size:12px;
+	font-family:Arial;
+	font-weight:bold;
+}
+
+#board_write_func{
+	text-align:left;
+	margin:10px;
+}
+
+#board_write_func_tbl{
+	font-size:13px;
+	font-family:Arial;
+	border-collapse:collapse;
+	
+	margin:10px;
+}
+
+#board_write_func_tbl td{
+	border:0px none #FFF;
+}
+
+/*  */
+
+/* 페이지네이션 */
+.pagination {
+	font-size:12px;
+	font-family:Arial;
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+}
+
+.pagination a.active {
+    background-color: #008CBA;
+    color: white;
+    border: 1px solid #008CBA;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}

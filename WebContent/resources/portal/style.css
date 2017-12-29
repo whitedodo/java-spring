@@ -1,0 +1,93 @@
+
+#portal_tbl{
+	width:100%;
+	border-collapse:collapse;
+}
+
+#portal_tbl td{
+	border:1px solid #e2e2e2;
+}
+
+#menu_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size:12px;
+    font-family:Arial;
+}
+
+#menu_ul a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#menu_ul a:hover {
+    background-color: #FA58AC;
+    color: white;
+}
+
+#menu_ul li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#menu_ul li a.active {
+    background-color: #FA5882;
+    color: white;
+}
+
+#menu_ul li a:hover:not(.active) {
+    background-color: #FA58AC;
+    color: white;
+}
+
+#menu_ul .active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#head_nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFF;
+}
+
+#head_nav li {
+    list-style-type: none;
+    float: left;
+    border-right:0px solid #bbb;
+}
+
+#head_nav li:last-child {
+    border-right: none;
+}
+
+#head_nav li a {
+    display: block;
+    color: #666;
+    font-family:Arial;
+    font-size:12px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#head_nav li a:hover:not(.active) {
+    background-color: #FFF;
+}
+
+#head_nav .active {
+    background-color: #FFF;
+}
+
+
+.gpl_license{
+	font-family:Tahoma;
+	font-size:12px;
+}

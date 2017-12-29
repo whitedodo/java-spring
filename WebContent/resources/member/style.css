@@ -1,0 +1,49 @@
+
+#member_tbl{
+	width:100%;
+	height:600px;
+}
+
+#member_tbl td{
+	border:1px solid #e2e2e2;
+}
+
+#loginForm_tbl{
+	width:100%;
+	font-size:12px;
+	font-family:Arial;
+}
+
+#loginForm_tbl td{
+	height:30px;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+	border-bottom:1px solid #e2e2e2;
+	text-align:center;
+}
+#loginInput{
+	font-family:Tahoma;
+	font-size:15px;
+	width:95%;
+	height:95%;
+	border:1px solid #e2e2e2;
+}
+
+.message{
+	font-family:Tahoma;
+	font-size:12px;
+}
+
+.login_submit{
+	font-family:Tahoma;
+	font-weight:bold;
+	font-size:16px;
+	background-color:#e2e2e2;
+	border:1px solid #e4e4e4;
+	height:35px;	
+}
+.gpl_license{
+	font-family:Tahoma;
+	font-size:12px;
+}

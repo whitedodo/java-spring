@@ -59,3 +59,4 @@
 ##### Link: [Pool - Download Apache Commons Pool], [Apache Commons] "https://commons.apache.org/proper/commons-pool/download_pool.cgi", "Apache Foundation"
 ##### Link: [MySQL :: Download Connector/J], [MySQL] "https://dev.mysql.com/downloads/connector/j/", "MySQL"
 ##### Link: [12.2.0.1 - JDBC and UCP Download Page], [Oracle] "https://www.oracle.com/technetwork/database/features/jdbc/jdbc-ucp-122-3110062.html", "Oracle Corporation"
+##### Link: [Bean Validation - Bean Validation 2.0 (JSR 380)], [Bean Validation] "https://beanvalidation.org", Bean Validation

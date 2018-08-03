@@ -63,3 +63,6 @@
 ##### Link: [12.2.0.1 - JDBC and UCP Download Page], [Oracle] "https://www.oracle.com/technetwork/database/features/jdbc/jdbc-ucp-122-3110062.html", "Oracle Corporation"
 ##### Link: [Bean Validation - Bean Validation 2.0 (JSR 380)], [Bean Validation] "https://beanvalidation.org", Bean Validation
 ##### Link: [Apache Taglibs - Apache Standard Taglib: JSP[tm] Standard Tag Library (JSTL) implementations], [Apache Commons] "https://tomcat.apache.org/taglibs/standard/", "Apache Foundation"
+
+##### Link: [Enabling Open Innovation & Collaboration | The Eclipse Foundation], [The Eclipse Foundation], "http://www.eclipse.org/", The Eclipse Foundation
+

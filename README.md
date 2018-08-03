@@ -51,6 +51,8 @@
 > ##### standard.jar - (Apache License V2.0)
 > ##### validation-api-2.0.1.Final.jar - (Apache License V2.0)
 
+#### 참고자료(Reference)
+
 ##### Link: [Spring Tool Suite™ Downloads], [Download STS], "https://spring.io/tools/sts/all "Spring.io"
 ##### Link: [Barcode4J], [SourceForge], "https://sourceforge.net/projects/barcode4j/" "SourceForge"
 ##### Link: [Apache Taglibs - Apache Standard Taglib: JSP[tm] Standard Tag Library (JSTL) implementations], [Apache Standard Taglib: JSP[tm] "https://tomcat.apache.org/taglibs/standard/" "Apache Foundation"

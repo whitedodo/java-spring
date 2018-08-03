@@ -21,6 +21,10 @@
 > ##### = Downloader, and Upload function have been implemented by Apache Commons FileUpload 1.3.3.
 ##### 4. 바코드 생성 프로젝트에 사용될 수 있는 예제가 탑재되어 있습니다. "BarCode4J" 프로젝트로 바코드 생성을 할 수 있습니다.
 > ##### = Examples that can be used for barcode generation project are installed. You can create a barcode with the "BarCode4J" project.
+##### 5. 게시판이 조회, 검색 기능이 구현되어 있습니다.
+> ##### = The bulletin board has the lookup and search function implemented.
+##### 6. MySQL, Oracle JDBC가 구현의 일부가 되었습니다.
+> ##### MySQL, Oracle JDBC has become part of the implementation.
 
 ##### 프로젝트에 사용된 주요 라이브러리 또는 프레임워크(The main library or framework used in the project)
 > ##### barcode4j.jar - (Apache License V2.0)

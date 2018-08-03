@@ -48,6 +48,8 @@
 > ##### jstl.jar - (Apache License V2.0)
 > ##### mysql-connector-java-5.1.44-bin.jar - (GNU General Public License, version 2)
 > ##### ojdbc8.jar - (Oracle Technology Network License)
+> ##### standard.jar - (Apache License V2.0)
+> ##### validation-api-2.0.1.Final.jar - (Apache License V2.0)
 
 ##### Link: [Spring Tool Suite™ Downloads], [Download STS], "https://spring.io/tools/sts/all "Spring.io"
 ##### Link: [Barcode4J], [SourceForge], "https://sourceforge.net/projects/barcode4j/" "SourceForge"
@@ -60,3 +62,4 @@
 ##### Link: [MySQL :: Download Connector/J], [MySQL] "https://dev.mysql.com/downloads/connector/j/", "MySQL"
 ##### Link: [12.2.0.1 - JDBC and UCP Download Page], [Oracle] "https://www.oracle.com/technetwork/database/features/jdbc/jdbc-ucp-122-3110062.html", "Oracle Corporation"
 ##### Link: [Bean Validation - Bean Validation 2.0 (JSR 380)], [Bean Validation] "https://beanvalidation.org", Bean Validation
+##### Link: [Apache Taglibs - Apache Standard Taglib: JSP[tm] Standard Tag Library (JSTL) implementations], [Apache Commons] "https://tomcat.apache.org/taglibs/standard/", "Apache Foundation"

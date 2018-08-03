@@ -1,9 +1,10 @@
 ## [Java-Spring-Web 프로젝트 소개]
 
-##### 작성자 소개(About the author)
+#### 작성자 소개(About the author)
 > ##### 1. Dodo (rabbit.white@daum.net)
-> ##### 2. Created by:
+> ##### 2. Created by: 2017-0
 > ##### 3. Description:
+> ##### 4. License: GNU General Public License, version 3
 
 #### 빌드(Build)
 > ##### 1. repository에서 프로젝트를 컴퓨터에 가져온다.

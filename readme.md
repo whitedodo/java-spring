@@ -12,6 +12,10 @@
 > ##### 2. Eclipse 환경에서 Open Projects from File System을 통해서 프로젝트를 사용할 수 있습니다.
 > ###### (You can use the project through the Open Projects from File System in the Eclipse environment.)
 
+#### 개발환경(Development environment)
+> ##### 1. Java(JDK)
+> ##### 2. Eclipse Neon
+
 #### 프로젝트 특징(Project Features)
 ##### 1. 이 프로젝트의 특징은 Spring Framework를 쉽게 사용하기 위해서 작성되었습니다.
 > ##### = The features of this project are designed to make Spring Framework easy to use.

@@ -25,17 +25,17 @@ public class DBConn {
 	    		JDBC_DRIVER_NAME = "oracle.jdbc.driver.OracleDriver";
 	    	    DATABASE_URL = "jdbc:oracle:thin:@127.0.0.1:1521:ORCL";
 	    	    DATABASE_USER = "c##rabbit";
-	    	    DATABASE_PASSWORD = "apmsetup";
+	    	    DATABASE_PASSWORD = "1234";
 	    	    
 	    	    break;
 	    	    
 	    	case MYSQL:
 	    		JDBC_DRIVER_NAME = "org.gjt.mm.mysql.Driver";
-	    		DATABASE_URL = "jdbc:mysql://localhost:3306/jungdy?" + 
+	    		DATABASE_URL = "jdbc:mysql://localhost:3306/whitedodo?" + 
 										  "useUnicode=true&characterEncoding=utf-8&" + 
 										  "verifyServerCertificate=false&useSSL=true";
 	    		DATABASE_USER = "root";
-	    		DATABASE_PASSWORD = "apmsetup";
+	    		DATABASE_PASSWORD = "1234";
 	    				
 	    		break;
 	    		

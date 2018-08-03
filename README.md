@@ -67,4 +67,5 @@
 ##### Link: [Apache Taglibs - Apache Standard Taglib: JSP[tm] Standard Tag Library (JSTL) implementations], [Apache Commons] "https://tomcat.apache.org/taglibs/standard/", "Apache Foundation"
 
 ##### Link: [Enabling Open Innovation & Collaboration | The Eclipse Foundation], [The Eclipse Foundation], "http://www.eclipse.org/", The Eclipse Foundation
-
+##### Link: [Java SE - Downloads | Oracle Technology Network | Oracle], [Oracle], http://www.oracle.com/technetwork/java/javase/downloads/index.html, Oracle Corporation
+##### Link: [Java SE Licensing Information User Manual], [Oracle], http://www.oracle.com/technetwork/java/javase/documentation/java-se-lium-2018-03-19-4421425.pdf, Oracle Corporation

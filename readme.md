@@ -1,7 +1,7 @@
 ## [Java-Spring-Web 프로젝트 소개]
 
 #### 작성자 소개(About the author)
-> ##### 1. Dodo (rabbit.white@daum.net)
+> ##### 1. Dodo (rabbit.white@daum.net / jungwy@kumoh.ac.kr)
 > ##### 2. Created by: 2017-12-30
 > ##### 3. Description: 
 > ##### 4. License: GNU General Public License, version 3
